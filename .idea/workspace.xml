@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01893dd1-5032-4e47-9ffb-ee00777ef382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw8_3m.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/RPG_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Berserk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/GameEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Hacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/HavingSuperAbility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Magic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/SuperAbility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Thor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/players/Witcher.java" afterDir="false" />
-    </list>
+    <list default="true" id="01893dd1-5032-4e47-9ffb-ee00777ef382" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
